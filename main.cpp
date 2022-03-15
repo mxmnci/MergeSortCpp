@@ -1,3 +1,11 @@
+/**
+ * @file main.cpp
+ * @author Max Monciardini
+ * @brief CSCI 14 - Merge Sort Assignment
+ * @date 2022-03-15
+ *
+ */
+
 #include <iostream>
 #include <stdlib.h>
 
